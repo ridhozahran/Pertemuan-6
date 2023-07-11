@@ -1,0 +1,15 @@
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\bin\Debug\net6.0\encapsulation static.exe
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\bin\Debug\net6.0\encapsulation static.deps.json
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\bin\Debug\net6.0\encapsulation static.runtimeconfig.json
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\bin\Debug\net6.0\encapsulation static.dll
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\bin\Debug\net6.0\encapsulation static.pdb
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\encapsulation static.csproj.AssemblyReference.cache
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\encapsulation static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\encapsulation static.AssemblyInfoInputs.cache
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\encapsulation static.AssemblyInfo.cs
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\encapsulation static.csproj.CoreCompileInputs.cache
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\encapsulation static.dll
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\refint\encapsulation static.dll
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\encapsulation static.pdb
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\encapsulation static.genruntimeconfig.cache
+C:\Users\fauzi\OneDrive\Documents\pemrog2\encapsulation static\obj\Debug\net6.0\ref\encapsulation static.dll
